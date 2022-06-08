@@ -1,0 +1,8 @@
+﻿  Game.cpp
+  Gracz.cpp
+  Plansza.cpp
+  Pole.cpp
+  Statki.cpp
+C:\Users\Adamk05\source\repos\Statki\Statki.cpp(33,13): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  Generowanie kodu...
+  Statki.vcxproj -> C:\Users\Adamk05\source\repos\Statki\Debug\Statki.exe
